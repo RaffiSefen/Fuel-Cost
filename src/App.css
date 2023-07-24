@@ -1,10 +1,16 @@
 .App {
   text-align: center;
+   background-color: #282c34;
+}
+
+.App-body {
+   background-color: #282c34;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 15vmin;
   pointer-events: none;
+  float: inline-start;
 }
 
 @media (prefers-reduced-motion: no-preference) {
